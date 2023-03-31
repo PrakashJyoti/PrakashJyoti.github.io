@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rey-fluid-demo.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BYLgZpl79a76YTY3NzQ1M2IzMWVhYmRhMmRlNjljNmJlMDFlYTc1
+.squarespace.com	TRUE	/	FALSE	1999999999	SS_MID	9676f986-dcf4-4fce-8e66-feaa95684baaldyshr2m
+
